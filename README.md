@@ -37,3 +37,40 @@ Happy to consult or be a paid research subject. 😉
 
 – KC  
 November 29, 2025
+
+
+
+Addendum – November 29, 2025  
+ The Tongue Cheat-Code: one weird organ that turns 1,000 phosphenes into actual scenes
+
+The human tongue is the highest-resolution, chemically-aware, temperature-sensitive, pressure-mapping organ we own.  
+Close your eyes and picture any object (raspberry, Lego brick, coffee cup) — your tongue instantly simulates exactly what it would feel like rolling around in your mouth, down to micro-texture, temperature, and weight distribution.
+
+This is not visual imagery.  
+This is a pre-trained, universal multi-modal emulator running in S1 (somatosensory) + insula + parietal + orbitofrontal loops that **already hijacks visual cortex** to fill in missing data.
+
+Proof:  
+- Electrotactile tongue stimulation (BrainPort) makes blind people “see” shapes and motion by rewiring V1 through tongue → S1 pathways.  
+- Insular/S1 tongue-area activity is present in almost every visual object-imagination study.  
+- Even total aphantasics can do the tongue trick — the loop is that robust.
+
+### Practical, testable hack for Blindsight
+
+Instead of brute-forcing 100,000+ V1 electrodes for photorealism:
+
+1. Add ~200 threads to the tongue region of primary somatosensory cortex (S1) and/or anterior insula.  
+2. During training, pair every camera frame with the exact pressure/texture/temperature pattern the tongue would feel manipulating that object.  
+3. After 50–100 paired trials the brain learns:  
+   “these sparse phosphenes + this tongue pattern = coffee cup”  
+   → instantly recruits the full downstream emulator (depth, weight, affect, motor plan).
+
+Result: the patient doesn’t just see a crude wireframe.  
+They “taste-touch” the object so vividly the rest of the scene renders itself.
+
+Same principle as the multi-modal screening proposed above, but instead of screening for people who already have the emulator, you **force-activate the one emulator literally everybody ships with**.
+
+No amount of V1-only pixels will ever beat hijacking the tongue’s built-in super-resolution renderer.
+
+If Neuralink (or any vision BCI team) wants to prototype this tomorrow, I’m one DM away.
+
+– maizeowl88-creator
