@@ -74,3 +74,21 @@ No amount of V1-only pixels will ever beat hijacking the tongue’s built-in sup
 If Neuralink (or any vision BCI team) wants to prototype this tomorrow, I’m one DM away.
 
 – maizeowl88-creator
+
+
+## Addendum 2 – November 29, 2025  
+### Echo Seed: Passive Echolocation – The Brain's Built-In Sonar for Sparse Phosphenes
+
+Passive human echolocation turns ambient noise (footsteps, traffic reverb, room hum) into spatial maps without a single active click. It's the stealth version of what bats do, and blind experts use it to bike or hike—echo timing/depth/cueing V1 like actual sight.
+
+Neural lit: Passive echoes activate visual cortex (V1, parietal) in sighted/blind, building 3D scenes from audio alone. Sighted brains suppress it (precedence effect), but training flips it on in days—universal, no hardware.
+
+Blindsight tie-in: Record ambient audio (external mic), Grok-process to highlight echoes (boost early reflections 6dB, filter direct sound), zap V1 as "echo phosphenes." Brain auto-renders: walls from reverb decay, textures from timbre shifts, paths from motion Doppler.
+
+For born-blind: Cross-plasticity routes audio to V1 fast (1–2 weeks). Pair with tongue seed = echo + tactile = full "room feel" from 1k electrodes.
+
+Test: Cohort with/without passive echo seeding. Bet: 3–5x navigation accuracy at identical pixel count.
+
+DM if you want the protocol scripted.
+
+– maizeowl88-creator
